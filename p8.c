@@ -1,3 +1,4 @@
+/* various operations on tree */
 #include <stdio.h>
 #include <stdlib.h>
 struct Node
