@@ -1,3 +1,4 @@
+/* DFS tree traversal */
 #include<stdio.h>
 #include<stdlib.h>
 
