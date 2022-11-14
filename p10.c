@@ -1,3 +1,4 @@
+/* selection sort */
 #include <stdio.h> 
 #include <stdlib.h> 
 
@@ -37,4 +38,3 @@ arr[k] = arr[pos];
 arr[pos] = temp; 
 } 
 } 
-
